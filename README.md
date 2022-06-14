@@ -1,3 +1,3 @@
 # INTENT_Indah-Lailatul-Badriah
 Intent Explisit
-IntentImplisit
+Intent Implisit
